@@ -1,14 +1,13 @@
 # Dram
 
-![Whiskey Bond Warehouse](docs/bin/whisky-warehouse.PNG)
+![Whiskey Warehouse](docs/bin/whisky-warehouse.PNG)
 
 ### Business Objectives
 
 
-whiskey
-The project aims to innovate the Scottish whiskey industry by fictionalising whiskey bonds using
+The project aims to innovate the Scottish whiskey industry by fictionalising whiskey-backed securities using
 semi-fungible token technology. It provides secure, transparent, and
-efficient solutions for buying, selling, and investing in whiskey bonds with return on investment.
+efficient solutions for buying, selling, and investing in whiskey with a return on investment.
 
 The business objectives are
 
@@ -16,11 +15,11 @@ The business objectives are
 - Bring new investment into the Whiskey industry by providing a ramp from the 3+ trillion dollar
   crypto market
 - Enhance the profile of the Scottish Whiskey industry internationally
-- Provide a high quality, relatively stable investment return to crypto investors
-- Lower financial barriers to entry by fictionalising whiskey bonds
+- Provide a high-quality, relatively stable investment return to crypto investors
+- Lower financial barriers to entry by fictionalising whiskey securities
 - Provide a gateway for whisky investors to meet like-minded communities.
-- Provide users the status and novelty of owning an exiting asset
-- Allow self-custody of bonds which are a transferable and liquid asset
+- Provide users with the status and novelty of owning an existing asset
+- Allow self-custody of digital securities, which are transferable and liquid assets
 
 *note: The software being developed is asset agnostic, it could be used for other use cases other
 than whiskey bonds and has value as a SAAS platform or re-sale of source code.*
