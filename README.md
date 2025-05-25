@@ -68,5 +68,5 @@ flowchart LR
 
 ### Live Project (https://dynamic-cascaron-ec36d7.netlify.app/).
 
-### FrontEnd Project ((https://github.com/saudlari))
+### FrontEnd Project (https://github.com/saudlari)
 
