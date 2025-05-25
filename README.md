@@ -66,6 +66,7 @@ flowchart LR
 - **State Management**: Managed using `@tanstack/react-query` for efficient data fetching and caching.
 - **Styling**: Implemented with Tailwind CSS and DaisyUI for a responsive and modern UI.
 
-### Live Project
+### Live Project (https://dynamic-cascaron-ec36d7.netlify.app/).
 
-You can view the live project [here](https://dynamic-cascaron-ec36d7.netlify.app/).
+### FrontEnd Project ((https://github.com/saudlari))
+
