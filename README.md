@@ -58,4 +58,14 @@ flowchart LR
 - S3 service responsible for writing and maintaining files to a in local memory file system
 - AVAX running locally with Anvil, responsible for maintaining NFT and Sale smart contracts
 
-###   
+### Technology Stack
+
+- **Frontend**: Built with React, utilizing libraries such as `wagmi` for Ethereum hooks and `@rainbow-me/rainbowkit` for wallet integration.
+- **Backend**: Interacts with smart contracts deployed on the Avalanche network.
+- **Smart Contracts**: Utilizes ERC1155 for semi-fungible tokens, with contract interactions managed through `ethers.js`.
+- **State Management**: Managed using `@tanstack/react-query` for efficient data fetching and caching.
+- **Styling**: Implemented with Tailwind CSS and DaisyUI for a responsive and modern UI.
+
+### Live Project
+
+You can view the live project [here](https://dynamic-cascaron-ec36d7.netlify.app/).
