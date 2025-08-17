@@ -145,7 +145,6 @@ flowchart TB
 
 
 
-
 ### Getting Started
 
 To get started with the project, follow these steps:
@@ -157,9 +156,3 @@ To get started with the project, follow these steps:
 ```bash
 anvil --fork-url https://api.avax.network/ext/bc/C/rpc --block-time 5
 ```
-#
-forge build --silent && jq '.abi' ./solidity/SemiFungibleAsset/SemiFungibleAsset.json
-
-forge inspect SemiFungibleAssetSale.sol abi --json > SemiFungibleAssetSale.json
-
-solcjs --abi src/main/solidity/SemiFungibleAssetSale.sol -o build
