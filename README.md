@@ -59,20 +59,29 @@ Asset is held for a predetermined period (the “expiration date” of the inves
 
 During this time, the asset remains under custody and is not used, to preserve its condition and value.
 
-5. Liquidation & Profit Distribution
+5. Secondary Market
+The asset can be sold before expiration date in a set up secondary market on the platform, where other user can purchase the asset and an order book exists.
+
+6. Liquidation & Profit Distribution
 At the expiration date, the company sells the asset at the best possible price.
 
 Profits: Distributed proportionally among token holders.
 
 Losses: Deducted from each holder’s redeemable amount proportionally.
 
-6. Revenues
-The company applies a 2% fee on every buy and sell transaction of the tokens.
+7. Revenues
+The company applies a 2% fee on every buy and sell transaction of the tokens, both on the tokens purchase and on the secondary market.
+White-label SaaS: licensing platform to other asset managers (since the system is asset-agnostic), or any third party interested in tokenizing a RWA.
+Instead of them building from scratch (spending €500k–€1M on dev, legal structuring, audits), they rent Dram's infrastructure that: 
+-Creates SPVs
+-Issues tokenized equity
+-Manages primary sales + secondary liquidity
+-Provides custody/asset verification layers
 
 7. Key Differentiators
 Risk mitigation: The Asset is only purchased if fully funded; otherwise, the token purchaser of the unfulfilled bid are fully refunded with no fees.
 
-Transparency & exclusivity: Token holders can verify the existence and condition of the asset (with restrictions).
+Transparency & exclusivity: Token holders can verify the existence and condition of the asset. Specifically, the user can request the view of the asset on the caveau where the asset is stored, given that the asset custodian allows it.
 
 Specialized sourcing: In-house scouting ensures only high-potential goods are listed.
 Diversification: Accessing alternative investments whose value can be unrelated to the stock market and is a good instrument of diversification. 
