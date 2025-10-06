@@ -150,8 +150,12 @@ flowchart TB
 - A file storage service responsible for writing and maintaining files to a in local memory file system
 - A blockchain running locally with Anvil, responsible for hosting NFT and Sale smart contracts
 
-###     
-
+### Demos
+#### Architecture
+https://drive.google.com/file/d/1C3SID4695LcpwhwIyNuzKrceXjuSXG6v/view?usp=sharing 
+#### Use Cases
+https://drive.google.com/file/d/1kk6uGHkaU3omhAheJkfrbxIaVe9OntRG/view?usp=sharing
+https://drive.google.com/file/d/1T4FtBgGMNjMw5HKLfVts6yzg4HPDRNmh/view?usp=sharing  
 
 
 ### Getting Started
