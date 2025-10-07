@@ -118,10 +118,14 @@ flowchart TB
   s3["File Storage"]
   db["Database"]
   ax["Blockchain"]
-  wl -->|Learn about Dram| dm
+  wl -->|Learn about Dram| du
   wl -->|Receive/Buy/Sell/Swap Tokens| ax
-  cl -->|Manage Platform| dm
+  cl -->|Manage Platform| du
 
+  subgraph Presentation Layer
+    du["Dram UI"]
+  end
+  du --- dm
   subgraph Product Layer
     dm["Dram Platform"]
   end
